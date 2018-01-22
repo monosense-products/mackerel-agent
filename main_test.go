@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mackerelio/mackerel-agent/command"
-	"github.com/mackerelio/mackerel-agent/pidfile"
+	"github.com/monosense-products/mackerel-agent/command"
+	"github.com/monosense-products/mackerel-agent/pidfile"
 )
 
 func TestParseFlags(t *testing.T) {

@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mackerelio/mackerel-agent/mackerel"
+	"github.com/monosense-products/mackerel-agent/mackerel"
 )
 
 func respJSON(w http.ResponseWriter, data map[string]interface{}) {

@@ -3,11 +3,11 @@ package agent
 import (
 	"time"
 
-	"github.com/mackerelio/mackerel-agent/checks"
-	"github.com/mackerelio/mackerel-agent/config"
-	"github.com/mackerelio/mackerel-agent/mackerel"
-	"github.com/mackerelio/mackerel-agent/metadata"
-	"github.com/mackerelio/mackerel-agent/metrics"
+	"github.com/monosense-products/mackerel-agent/checks"
+	"github.com/monosense-products/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/mackerel"
+	"github.com/monosense-products/mackerel-agent/metadata"
+	"github.com/monosense-products/mackerel-agent/metrics"
 )
 
 // Agent is the root of metrics collectors

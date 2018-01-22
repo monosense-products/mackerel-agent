@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/mackerelio/mackerel-agent/util"
+	"github.com/monosense-products/mackerel-agent/util"
 )
 
 // FilesystemGenerator is common filesystem metrics generator on unix os.

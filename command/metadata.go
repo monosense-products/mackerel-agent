@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/mackerelio/golib/pluginutil"
-	"github.com/mackerelio/mackerel-agent/config"
-	"github.com/mackerelio/mackerel-agent/metadata"
+	"github.com/monosense-products/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/metadata"
 )
 
 func metadataGenerators(conf *config.Config) []*metadata.Generator {

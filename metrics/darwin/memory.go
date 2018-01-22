@@ -5,7 +5,7 @@ package darwin
 import (
 	"github.com/mackerelio/go-osstat/memory"
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/metrics"
+	"github.com/monosense-products/mackerel-agent/metrics"
 )
 
 /*

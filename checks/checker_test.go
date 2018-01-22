@@ -3,7 +3,7 @@ package checks
 import (
 	"testing"
 
-	"github.com/mackerelio/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/config"
 )
 
 func TestChecker_Check(t *testing.T) {

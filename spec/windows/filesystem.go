@@ -4,7 +4,7 @@ package windows
 
 import (
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/util/windows"
+	"github.com/monosense-products/mackerel-agent/util/windows"
 )
 
 // FilesystemGenerator XXX

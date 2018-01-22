@@ -5,7 +5,7 @@ package metrics
 import (
 	"testing"
 
-	"github.com/mackerelio/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/config"
 )
 
 func TestPluginCollectValuesCommand(t *testing.T) {

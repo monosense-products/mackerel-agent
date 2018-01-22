@@ -6,9 +6,9 @@ import (
 	"regexp"
 
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/metrics"
-	"github.com/mackerelio/mackerel-agent/util"
-	"github.com/mackerelio/mackerel-agent/util/windows"
+	"github.com/monosense-products/mackerel-agent/metrics"
+	"github.com/monosense-products/mackerel-agent/util"
+	"github.com/monosense-products/mackerel-agent/util/windows"
 )
 
 // FilesystemGenerator XXX

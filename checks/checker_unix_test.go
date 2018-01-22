@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mackerelio/mackerel-agent/cmdutil"
-	"github.com/mackerelio/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/cmdutil"
+	"github.com/monosense-products/mackerel-agent/config"
 )
 
 func TestChecker_CheckTimeout(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mackerelio/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/config"
 )
 
 func TestCloudKey(t *testing.T) {

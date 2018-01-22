@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mackerelio/mackerel-agent/config"
-	"github.com/mackerelio/mackerel-agent/mackerel"
-	"github.com/mackerelio/mackerel-agent/metrics"
+	"github.com/monosense-products/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/mackerel"
+	"github.com/monosense-products/mackerel-agent/metrics"
 )
 
 type fakeGenerator struct {

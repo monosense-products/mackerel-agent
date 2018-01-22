@@ -1,6 +1,6 @@
 package metrics
 
-import "github.com/mackerelio/mackerel-agent/mackerel"
+import "github.com/monosense-products/mackerel-agent/mackerel"
 
 // Values represents metric values
 type Values map[string]float64

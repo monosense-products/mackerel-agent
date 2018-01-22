@@ -2,7 +2,7 @@
 
 package freebsd
 
-import "github.com/mackerelio/mackerel-agent/spec"
+import "github.com/monosense-products/mackerel-agent/spec"
 
 // InterfaceGenerator XXX
 type InterfaceGenerator struct {

@@ -7,7 +7,7 @@ import (
 	"unsafe"
 
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/util/windows"
+	"github.com/monosense-products/mackerel-agent/util/windows"
 )
 
 // CPUGenerator XXX

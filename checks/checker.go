@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/config"
 )
 
 var logger = logging.GetLogger("checks")

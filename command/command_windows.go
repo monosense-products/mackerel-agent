@@ -1,11 +1,11 @@
 package command
 
 import (
-	"github.com/mackerelio/mackerel-agent/config"
-	"github.com/mackerelio/mackerel-agent/metrics"
-	metricsWindows "github.com/mackerelio/mackerel-agent/metrics/windows"
-	"github.com/mackerelio/mackerel-agent/spec"
-	specWindows "github.com/mackerelio/mackerel-agent/spec/windows"
+	"github.com/monosense-products/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/metrics"
+	metricsWindows "github.com/monosense-products/mackerel-agent/metrics/windows"
+	"github.com/monosense-products/mackerel-agent/spec"
+	specWindows "github.com/monosense-products/mackerel-agent/spec/windows"
 )
 
 func specGenerators() []spec.Generator {

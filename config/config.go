@@ -11,7 +11,7 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/cmdutil"
+	"github.com/monosense-products/mackerel-agent/cmdutil"
 	"github.com/pkg/errors"
 )
 

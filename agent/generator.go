@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/metrics"
+	"github.com/monosense-products/mackerel-agent/metrics"
 )
 
 var logger = logging.GetLogger("agent")

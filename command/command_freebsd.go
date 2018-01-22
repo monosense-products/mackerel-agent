@@ -1,11 +1,11 @@
 package command
 
 import (
-	"github.com/mackerelio/mackerel-agent/config"
-	"github.com/mackerelio/mackerel-agent/metrics"
-	metricsFreebsd "github.com/mackerelio/mackerel-agent/metrics/freebsd"
-	"github.com/mackerelio/mackerel-agent/spec"
-	specFreebsd "github.com/mackerelio/mackerel-agent/spec/freebsd"
+	"github.com/monosense-products/mackerel-agent/config"
+	"github.com/monosense-products/mackerel-agent/metrics"
+	metricsFreebsd "github.com/monosense-products/mackerel-agent/metrics/freebsd"
+	"github.com/monosense-products/mackerel-agent/spec"
+	specFreebsd "github.com/monosense-products/mackerel-agent/spec/freebsd"
 )
 
 func specGenerators() []spec.Generator {

@@ -6,8 +6,8 @@ import (
 	"net"
 
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/spec"
-	"github.com/mackerelio/mackerel-agent/util/windows"
+	"github.com/monosense-products/mackerel-agent/spec"
+	"github.com/monosense-products/mackerel-agent/util/windows"
 )
 
 // InterfaceGenerator XXX

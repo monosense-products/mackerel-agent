@@ -8,8 +8,8 @@ BUILD_OS_TARGETS = "linux darwin freebsd windows netbsd"
 BUILD_LDFLAGS = "\
 	  -X main.version=$(VERSION) \
 	  -X main.gitcommit=$(CURRENT_REVISION) \
-	  -X github.com/mackerelio/mackerel-agent/config.agentName=$(MACKEREL_AGENT_NAME) \
-	  -X github.com/mackerelio/mackerel-agent/config.apibase=$(MACKEREL_API_BASE)"
+	  -X github.com/monosense-products/mackerel-agent/config.agentName=$(MACKEREL_AGENT_NAME) \
+	  -X github.com/monosense-products/mackerel-agent/config.apibase=$(MACKEREL_API_BASE)"
 
 all: clean test build
 

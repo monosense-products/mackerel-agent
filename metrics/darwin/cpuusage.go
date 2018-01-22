@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/mackerelio/golib/logging"
-	"github.com/mackerelio/mackerel-agent/metrics"
+	"github.com/monosense-products/mackerel-agent/metrics"
 )
 
 // CPUUsageGenerator XXX
